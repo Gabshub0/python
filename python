@@ -1,0 +1,6 @@
+nome=¨maria gabrielly¨
+idade =¨16¨
+altura=¨1.55¨
+maior_de_idade=¨16¨
+print(¨Nome:¨,nome,¨Idade¨,idade,¨Altura¨,altura)
+print(¨É maior de idade?¨, maior_de_idade)      
